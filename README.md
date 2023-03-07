@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <br/>
-[![Chua's GitHub stats](https://github-readme-stats.vercel.app/api?username=liangchua)](https://github.com/anuraghazra/github-readme-stats)
+[![Chua's GitHub stats](https://github-readme-stats.vercel.app/api?username=liangchua)]
 </br>
 
 <!--
