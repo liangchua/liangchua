@@ -2,6 +2,8 @@
 
 ![Header](./github-header-image-dark.png)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+!+Welcome+to+my+profile;View+my+projects+in+repository)](https://git.io/typing-svg)
+
 &nbsp;
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
