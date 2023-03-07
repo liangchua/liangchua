@@ -1,9 +1,12 @@
 ### Hi there 👋
 
+<br/>
+[![Chua's GitHub stats](https://github-readme-stats.vercel.app/api?username=liangchua&count_private=true&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/liangchua)
+</br>
 
-[![Chua's GitHub stats](https://github-readme-stats.vercel.app/api?username=liangchua&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/liangchua)
-
+<!-- this shown the most used languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liangchua&layout=compact)](https://github.com/liangchua)
+-->
 
 <!--
 **liangchua/liangchua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
