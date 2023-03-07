@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Chua's GitHub stats](https://github-readme-stats.vercel.app/api?username=liangchua&count_private=true&show_icons=true&include_all_commits=true&theme=codeSTACKr)](https://github.com/liangchua)
+[![Chua's GitHub stats](https://github-readme-stats.vercel.app/api?username=liangchua&count_private=true&show_icons=true&include_all_commits=true&theme=gruvbox_light)](https://github.com/liangchua)
 
 
 <!-- this shown the most used languages 
