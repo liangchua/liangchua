@@ -11,8 +11,8 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-\\
 
+&nbsp;
 [![Chua's GitHub stats](https://github-readme-stats.vercel.app/api?username=liangchua&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&hide=contribs,prs)](https://github.com/liangchua)
 
 
