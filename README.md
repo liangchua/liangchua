@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<br/>
+
 [![Chua's GitHub stats](https://github-readme-stats.vercel.app/api?username=liangchua&show_icons=true&include_all_commits=true)](https://github.com/liangchua)
-</br>
+
 
 <!-- this shown the most used languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liangchua&layout=compact)](https://github.com/liangchua)
