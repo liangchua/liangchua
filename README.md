@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 <br/>
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=liangchua&show_icons=true&theme=radical)
-![github stats](https://github-readme-stats.vercel.app/api?username=liangchua&show_icons=true&theme=radical)
+[![Chua's GitHub stats](https://github-readme-stats.vercel.app/api?username=liangchua)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 
 <!--
