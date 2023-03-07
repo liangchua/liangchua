@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <br/>
-[![Chua's GitHub stats](https://github-readme-stats.vercel.app/api?username=liangchua&show_icons=true)](https://github.com/liangchua)
+[![Chua's GitHub stats](https://github-readme-stats.vercel.app/api?username=liangchua&show_icons=true&include_all_commits=true)](https://github.com/liangchua)
 </br>
 
 <!-- this shown the most used languages 
