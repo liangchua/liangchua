@@ -23,6 +23,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liangchua&theme=tokyonight&layout=compact)](https://github.com/liangchua/github-readme-stats)
 
+[![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=liangchua&theme=tokyonight)](https://github.com/liangchua)
+
 <!--
 [![Top Langs Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=liangchua&theme=tokyonight)](https://github.com/liangchua)
 
