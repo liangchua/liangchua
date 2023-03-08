@@ -21,8 +21,11 @@
 [![Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=liangchua&theme=tokyonight)](https://github.com/liangchua)
 [![Chua's GitHub stats](https://github-readme-stats.vercel.app/api?username=liangchua&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true)](https://github.com/liangchua)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liangchua&theme=tokyonight&layout=compact&hide_border=true)](https://github.com/liangchua/github-readme-stats)
 [![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=liangchua&theme=tokyonight&utcOffset=8)](https://github.com/liangchua)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liangchua&theme=tokyonight&layout=compact&hide_border=true)](https://github.com/liangchua/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=liangchua&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 <!--
 [![Top Langs Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=liangchua&theme=tokyonight)](https://github.com/liangchua)
