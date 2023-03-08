@@ -19,7 +19,7 @@
 [![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liangchua&theme=tokyonight)](https://github.com/liangchua)
 
 [![Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=liangchua&theme=tokyonight)](https://github.com/liangchua)
-[![Chua's GitHub stats](https://github-readme-stats.vercel.app/api?username=liangchua&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&border_radius=0)](https://github.com/liangchua)
+[![Chua's GitHub stats](https://github-readme-stats.vercel.app/api?username=liangchua&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&border=0)](https://github.com/liangchua)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liangchua&theme=tokyonight&layout=compact)](https://github.com/liangchua/github-readme-stats)
 
