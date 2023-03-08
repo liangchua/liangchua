@@ -27,7 +27,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=liangchua&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=liangchua&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=liangchua&theme=tokyonight&column=7&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 [![Top Langs Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=liangchua&theme=tokyonight)](https://github.com/liangchua)
