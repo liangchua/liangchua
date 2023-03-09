@@ -24,7 +24,7 @@
 
 &nbsp;
 
-
+# GITHUB STATS
 
 <!--[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liangchua&theme=tokyonight)](https://github.com/liangchua)-->
 <p align="center">
@@ -35,12 +35,17 @@
 [![Chua's GitHub stats](https://github-readme-stats.vercel.app/api?username=liangchua&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true)](https://github.com/liangchua)
 
 [![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=liangchua&theme=tokyonight&utcOffset=8)](https://github.com/liangchua)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liangchua&theme=tokyonight&layout=compact&hide_border=true)](https://github.com/liangchua/github-readme-stats)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=liangchua&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liangchua&theme=tokyonight&layout=compact&hide_border=true)](https://github.com/liangchua/github-readme-stats)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=liangchua&theme=tokyonight&column=7&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+--> 
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=liangchua&theme=tokyonight&column=7&no-frame=true" alt="Chua Trophy Stats"></img>
+</p>
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Thank+You+🤗&text2=👋+Contact+Me&width=1000&height=300)](https://github.com/Akshay090/svg-banners)
 
