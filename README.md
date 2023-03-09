@@ -28,6 +28,8 @@
 
 [![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liangchua&theme=tokyonight)](https://github.com/liangchua)
 
+</p>
+
 [![Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=liangchua&theme=tokyonight)](https://github.com/liangchua)
 [![Chua's GitHub stats](https://github-readme-stats.vercel.app/api?username=liangchua&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true)](https://github.com/liangchua)
 
@@ -41,4 +43,4 @@
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Thank+You+🤗&text2=👋+Contact+Me&width=1000&height=300)](https://github.com/Akshay090/svg-banners)
 
-</p>
+
