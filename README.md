@@ -24,11 +24,11 @@
 
 &nbsp;
 
-<p align="center">
-  
-<!--[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liangchua&theme=tokyonight)](https://github.com/liangchua)-->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liangchua&theme=tokyonight" alt="Chua Github Stats"></img>
 
+
+<!--[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liangchua&theme=tokyonight)](https://github.com/liangchua)-->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liangchua&theme=tokyonight" alt="Chua Github Stats"></img>
 </p>
 
 [![Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=liangchua&theme=tokyonight)](https://github.com/liangchua)
