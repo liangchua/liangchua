@@ -37,5 +37,5 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=liangchua&theme=tokyonight&column=7&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Thank+You+🤗&text2=🤝Contact+Me&width=800&height=300)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Thank+You+🤗&text2=👋+Contact+Me&width=1000&height=300)](https://github.com/Akshay090/svg-banners)
 
