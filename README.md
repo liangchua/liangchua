@@ -24,12 +24,6 @@
 
 &nbsp;
 
-# SKILLS
-
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=dark)](https://skillicons.dev)
-
-&nbsp;
-
 [![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liangchua&theme=tokyonight)](https://github.com/liangchua)
 
 [![Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=liangchua&theme=tokyonight)](https://github.com/liangchua)
@@ -42,4 +36,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=liangchua&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=liangchua&theme=tokyonight&column=7&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Thank+You&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
