@@ -25,7 +25,9 @@
 &nbsp;
 
 <p align="center">
-  [![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liangchua&theme=tokyonight)](https://github.com/liangchua)
+  
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liangchua&theme=tokyonight)](https://github.com/liangchua)
+
 </p>
 
 [![Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=liangchua&theme=tokyonight)](https://github.com/liangchua)
