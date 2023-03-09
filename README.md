@@ -26,7 +26,8 @@
 
 <p align="center">
   
-[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liangchua&theme=tokyonight)](https://github.com/liangchua)
+<!--[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liangchua&theme=tokyonight)](https://github.com/liangchua)-->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liangchua&theme=tokyonight" alt="Chua Github Stats"></img>
 
 </p>
 
