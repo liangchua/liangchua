@@ -17,8 +17,6 @@
   <img src="./coding.gif" alt="coding"></img>
 </p>
 
-![Coding](./coding.gif)
-
 - 👯 I’m looking to collaborate on machine learning projects with ml engineers, data scientists and developers. I believe collaboration is key to developing effective solutions and expanding my knowledge in the field.
 
 - 🤔 I’m looking for help with finding job opportunities as a machine learning engineer, data scientist or data analyst. I'm open to any advice or suggestions on how to improve my resume, portfolio, or technical skills.
