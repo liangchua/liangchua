@@ -17,6 +17,8 @@
 
 - 🤔 I’m looking for help with finding job opportunities as a machine learning engineer, data scientist or data analyst. I'm open to any advice or suggestions on how to improve my resume, portfolio, or technical skills.
 
+- 💬 Ask me about my experience working with machine learning algorithms, my approach to problem-solving in the field, or any questions you may have about my projects.
+
 &nbsp;
 
 # GITHUB STATS
@@ -47,5 +49,4 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Thank+You+🤗&text2=👋+Contact+Me&width=1000&height=300)](https://github.com/Akshay090/svg-banners)
 
 ![Bye](./hello2-resized.gif)
-- 💬 Ask me about my experience working with machine learning algorithms, my approach to problem-solving in the field, or any questions you may have about my projects.
 - 📫 You can reach me on my LinkedIn profile [[LinkedIn](https://www.linkedin.com/in/chua-chen-liang-530b761aa/)], or via email at [chualiang97@gmail.com].
