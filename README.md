@@ -12,7 +12,6 @@
 - 🔭 I'm currently working on several machine learning projects using Python, and am using Streamlit to deploy the models. It's been an exciting opportunity to apply my knowledge of machine learning algorithms and data analysis to projects and gain experience in model deployment. Currently, I'm unemployed and seeking a position as a machine learning engineer or data scientists, where I can apply my expertise in artificial intelligence and data analysis to build innovative solutions that can make a positive impact in the world.
 
 - 🌱 I’m currently learning new machine learning algorithms and techniques, as well as working on improving my programming skills in Python and SQL.
-
 ![Coding](./coding.gif)
 
 - 👯 I’m looking to collaborate on machine learning projects with ml engineers, data scientists and developers. I believe collaboration is key to developing effective solutions and expanding my knowledge in the field.
