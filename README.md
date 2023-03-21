@@ -20,8 +20,6 @@
 
 - 📫 You can reach me on my LinkedIn profile [[LinkedIn](https://www.linkedin.com/in/chua-chen-liang-530b761aa/)], or via email at [chualiang97@gmail.com].
 
-- ⚡ Fun fact: Did you know that the first artificial neural network was developed in the 1950s? It was designed to simulate the behavior of a single neuron, and it paved the way for the development of modern neural networks that are widely used in machine learning today.
-
 &nbsp;
 
 # GITHUB STATS
