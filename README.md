@@ -2,6 +2,7 @@
 
 ![Header](./github-header-image-dark.png)
 
+![Hello](./hello.gif)
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+!+Welcome+to+my+profile+...;Please+view+projects+at+repositories+.;Thank+you+!!!)](https://git.io/typing-svg)
 
 &nbsp;
