@@ -48,5 +48,5 @@
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Thank+You+🤗&text2=👋+Contact+Me&width=1000&height=300)](https://github.com/Akshay090/svg-banners)
 
-![Bye](./hello2-resized40.gif)
+![Bye](./hello2-resized.gif)
 📫 You can reach me on my LinkedIn profile [[LinkedIn](https://www.linkedin.com/in/chua-chen-liang-530b761aa/)], or via email at [chualiang97@gmail.com].
