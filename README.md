@@ -49,3 +49,5 @@
 &nbsp;
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Thank+You+🤗&text2=👋+Contact+Me&width=1000&height=300)](https://github.com/Akshay090/svg-banners)
+
+![Bye](./hello2-resized.gif)
