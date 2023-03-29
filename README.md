@@ -2,7 +2,7 @@
 
 ![Header](./github-header-image-dark.png)
 
-![Hello](./hello-resized.gif)
+<!-- ![Hello](./hello-resized.gif) -->
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+!+Welcome+to+my+profile+...;Please+view+projects+at+repositories+.;Thank+you+!!!)](https://git.io/typing-svg)
 
 &nbsp;
@@ -30,10 +30,11 @@
 <!--[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liangchua&theme=tokyonight)](https://github.com/liangchua)-->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liangchua&theme=tokyonight" alt="Chua Github Stats"></img>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=liangchua&theme=tokyonight" alt="Chua Github Stats 2"></img>
 </p>
 
-[![Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=liangchua&theme=tokyonight)](https://github.com/liangchua)
-[![Chua's GitHub stats](https://github-readme-stats.vercel.app/api?username=liangchua&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true)](https://github.com/liangchua)
+<!--[![Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=liangchua&theme=tokyonight)](https://github.com/liangchua)
+[![Chua's GitHub stats](https://github-readme-stats.vercel.app/api?username=liangchua&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true)](https://github.com/liangchua) -->
 
 [![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=liangchua&theme=tokyonight&utcOffset=8)](https://github.com/liangchua)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=liangchua&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
