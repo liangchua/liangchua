@@ -39,11 +39,11 @@
 [![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=liangchua&theme=tokyonight&utcOffset=8)](https://github.com/liangchua)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=liangchua&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-<!--
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liangchua&theme=tokyonight&layout=compact&hide_border=true)](https://github.com/liangchua/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=liangchua&theme=tokyonight&column=7&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
---> 
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=liangchua&theme=tokyonight&column=7&no-frame=true" alt="Chua Trophy Stats"></img>
